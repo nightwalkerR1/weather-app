@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+#weather-main{
+  height: 500px;
+  width: 90%;
+  margin-left: 60px;
+  margin-top: 50px;
+  background-color: blue;
+
+}
